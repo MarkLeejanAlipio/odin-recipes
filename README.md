@@ -16,3 +16,7 @@ With this project, I'll be using the things I've learned so far which will help 
 - Using absolute and relative link in the good way
 - Links and Images
 - Proper Commit Message
+
+# EDIT (APRIL 7, 2026)
+
+Added some styles to practice CSS display, font, color, normal flow, and div.
